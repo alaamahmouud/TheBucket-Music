@@ -1,0 +1,80 @@
+.small {
+    height: 150px;
+    border-radius: 5px;
+    /* width: 900px; */
+    /* background-color: #202324; */
+    /* margin-top: 20px; */
+    /* margin-left: 10px; */
+    /* position: relative; */
+}
+
+img {
+    height: 100px;
+}
+
+
+/* .font {
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+} */
+
+.songs {
+    border-radius: 5px;
+    /* width: 10%; */
+    /* height: 100px; */
+    /* margin-top: 20px; */
+    /* margin-left: 50px; */
+}
+
+.word {
+    /* font-size: ; */
+    /* float: right;
+    color: aliceblue;
+    margin-right: 670px;
+    margin-top: 60px;
+    position: relative; */
+}
+
+#waveform {
+    position: relative;
+    user-select: none;
+    height: 137px;
+    overflow: hidden hidden;
+    width: 49%;
+    left: 28%;
+    top: -114px;
+}
+
+element.style {
+    display: block;
+    position: relative;
+    user-select: none;
+    height: 128px;
+    overflow: auto hidden;
+    left: 10%;
+    bottom: 4%;
+}
+
+
+/* .icons {
+    position: absolute;
+    top: 44%;
+    right: 8%;
+    font-size: 15px;
+    top: 42%;
+} */
+
+
+/* .icon-love {
+    right: 3%;
+} */
+
+
+/* edit */
+
+
+/* .icon-start {
+    right: 14%;
+} */
+
